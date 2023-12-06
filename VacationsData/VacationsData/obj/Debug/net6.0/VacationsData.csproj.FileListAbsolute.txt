@@ -1,0 +1,14 @@
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\bin\Debug\net6.0\VacationsData.exe
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\bin\Debug\net6.0\VacationsData.deps.json
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\bin\Debug\net6.0\VacationsData.runtimeconfig.json
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\bin\Debug\net6.0\VacationsData.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\bin\Debug\net6.0\VacationsData.pdb
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\obj\Debug\net6.0\VacationsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\obj\Debug\net6.0\VacationsData.AssemblyInfoInputs.cache
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\obj\Debug\net6.0\VacationsData.AssemblyInfo.cs
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\obj\Debug\net6.0\VacationsData.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\obj\Debug\net6.0\VacationsData.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\obj\Debug\net6.0\refint\VacationsData.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\obj\Debug\net6.0\VacationsData.pdb
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\obj\Debug\net6.0\VacationsData.genruntimeconfig.cache
+C:\Users\Анастасия Еремина\Documents\GitHubTests\VacationsData\VacationsData\VacationsData\obj\Debug\net6.0\ref\VacationsData.dll
