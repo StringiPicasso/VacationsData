@@ -11,7 +11,7 @@ namespace VacationsData
     {
         static void Main(string[] args)
         {
-            VacationsEmployee vacationsEmployee = new VacationsEmployee();
+            VacationsService vacationsEmployee = new VacationsService();
 
             vacationsEmployee.ShowVacationsEmployee();
         }
